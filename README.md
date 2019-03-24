@@ -31,7 +31,7 @@ Because of the direct idea I settled at the begining, all functions add afterwar
 * Version 0.5 (Next version) Plan to get nesting brackets, but don't have a clue on muiltple symbols in brackets. 
 # 5. Run
 	cd src/
-	javac main.java
+	javac -encoding UTF-8 main.java
 	java main
 # 6. Personal Software Process (PSP)
 | PSP2.1        | Planed time   |  Actual time  |

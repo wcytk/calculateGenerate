@@ -1,4 +1,4 @@
-#1. Project Requirement Analysis
+# 1. Project Requirement Analysis
 1. Input: An Integer
 2. Output: The first line is my student id number, and n lines follows are equations and answers
 3. Basic Format: Equations contains '+', '-', '*', '÷', but every equation must include more than 2, less than 5 symbols, at the mean time, the equation must include more than 2 different symbols

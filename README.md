@@ -57,4 +57,4 @@ After design and complete this program, I have realize the importance of Algorit
 Writing this program simply using if-else is so freaking hard, especially after adding brackets, the situation became extremely complicated. And bugs are hiding deeply inside of codes, like NullPointerException, divide 0 or dead loop etc. So, it may not be a good idea just using if-else to write program, in next case, I would use some existing algorithm.
 
 ---
-# [***My blog***](https://blog.wcytk.com)
+# [***My blog***](https://blog.wcytk.com/articles/5)
